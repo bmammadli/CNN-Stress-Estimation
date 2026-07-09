@@ -2,7 +2,7 @@
 
 Implementation of a **Convolutional Neural Networks (CNN)** for stress state estimation from deformed surface images.
 
-This project was presented as a research poster at **PyTorch Conference Europe 2026**, demonstrating the application of deep learning for stress estimation directly from deformed surface images. The repository provides the official implementation accompanying the presented work.
+This project was presented as a research poster at **PyTorch Conference Europe 2026**, demonstrating the application of deep learning for stress state estimation directly from deformed surface images. The repository provides the official implementation accompanying the presented work.
 
 ---
 
