@@ -1,6 +1,6 @@
 # CNN-Stress-Estimation
 
-Implementation of a **Convolutional Neural Networks (CNN)** for stress state estimation from deformed surface images.
+Official Implementation of a **Convolutional Neural Networks (CNN)** for stress state estimation from deformed surface images.
 
 This project was presented as a research poster at **PyTorch Conference Europe 2026**, demonstrating the application of deep learning for stress state estimation directly from deformed surface images. The repository provides the official implementation accompanying the presented work.
 
@@ -32,7 +32,7 @@ The model captures the stress evolution in the training data and achieves an **M
 
 The repository contains the complete implementation of the proposed CNN framework in a single Python script:
 
-**`CNN_Stress.py`**
+**`cnn_stress.py`**
 
 The code includes the complete workflow, including:
 
