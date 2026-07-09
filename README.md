@@ -28,7 +28,7 @@ The model captures the stress evolution in the training data and achieves an **M
 
 ---
 
-## Code
+## Implementation
 
 The repository contains the complete implementation of the proposed CNN framework in a single Python script:
 
