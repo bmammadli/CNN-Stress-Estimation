@@ -1,4 +1,4 @@
-# CNN-Stress-Estimation
+# CNN-Stress-State-Estimation
 
 Implementation of a **Convolutional Neural Networks (CNN)** for stress state estimation from deformed surface images.
 
