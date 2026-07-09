@@ -1,16 +1,9 @@
 # CNN-Stress-Estimation
 
-Official implementation of a **Convolutional Neural Network (CNN)** for stress state estimation from deformed surface images.
+Implementation of a **Convolutional Neural Networks (CNN)** for stress state estimation from deformed surface images.
 
-This work was presented at **PyTorch Conference Europe 2026**.
+This project was presented as a research poster at **PyTorch Conference Europe 2026**, demonstrating the application of deep learning for stress estimation directly from deformed surface images. The repository provides the official implementation accompanying the presented work.
 
----
-
-## Overview
-
-Mechanical stress governs material deformation and failure but cannot be directly observed from conventional surface images. This project demonstrates that stress can be estimated directly from deformed surface images using a deep learning framework based on **ResNet18** and transfer learning. The proposed approach enables non-contact stress estimation and provides early insight into material behavior before visible damage appears.
-
----
 
 ## Data Preparation and Model Overview
 
@@ -22,7 +15,6 @@ The proposed model is based on a pretrained **ResNet18** with transfer learning 
   <img src="figures/model.png" width="900">
 </p>
 
----
 
 ## Results
 
@@ -32,11 +24,6 @@ The model captures the stress evolution in the training data and achieves an **M
   <img src="figures/results.png" width="900">
 </p>
 
----
-
-## PyTorch Conference Europe 2026
-
-This project was presented as a research poster at **PyTorch Conference Europe 2026**, demonstrating the application of deep learning for stress estimation directly from deformed surface images. The repository provides the official implementation accompanying the presented work.
 
 ---
 
