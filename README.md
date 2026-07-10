@@ -8,7 +8,7 @@ This project was presented as a research poster at **PyTorch Conference Europe 2
 
 ## Data Preparation and Model Overview
 
-Approximately **11,000 surface images** were collected from uniaxial tensile experiments on two independent miniaturized **316L stainless steel** specimens (Experiments A and B). Each image was paired with its corresponding stress value. The CNN was trained using **Experiment A** and evaluated on the independent **Experiment B** to assess its generalization capability.
+Approximately **11,000 surface images** were collected from uniaxial tensile experiments on two independent miniaturized **316L stainless steel** specimens (Experiments A and B). Each image was paired with its corresponding stress value recorded from tensile testing machine. The CNN was trained using **Experiment A** and evaluated on the independent **Experiment B** to assess its generalization capability.
 
 The proposed model is based on a pretrained **ResNet18** with transfer learning and selective fine-tuning. A regression head predicts continuous stress values, while the **Huber loss** is used for robust training.
 
